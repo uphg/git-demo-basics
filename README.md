@@ -1,8 +1,8 @@
 # 井字棋小游戏
 
-预览地址：https://chenning02.github.io/git-hunger/vue_basics/dist/index.html 
+预览地址：https://chenning02.github.io/git-demo-basics/dist/index.html
 
-## Project setup
+## 运行
 
 ```
 yarn install
