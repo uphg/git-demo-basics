@@ -1,5 +1,7 @@
 # 井字棋小游戏
 
+利用父子组件间传值完成的一个井字棋小游戏。
+
 预览地址：https://chenning02.github.io/git-demo-basics/dist/index.html
 
 ## 运行
